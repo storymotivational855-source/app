@@ -1,0 +1,17 @@
+{
+  "short_name": "WB Study AI",
+  "name": "WB Study AI - West Bengal Board Learning Companion",
+  "description": "AI-powered educational assistant for West Bengal (WBBSE & WBCHSE) students with offline saved notes and syllabus resources.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23059669'/><path d='M50 20 L80 35 L50 50 L20 35 Z M50 55 L75 43 V60 L50 72 L25 60 V43 Z' fill='%23ffffff'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#059669",
+  "display": "standalone",
+  "orientation": "portrait"
+}

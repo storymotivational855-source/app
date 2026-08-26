@@ -1,0 +1,10 @@
+{
+  "name": "WB Study AI",
+  "description": "AI-powered educational assistant for West Bengal (WBBSE & WBCHSE) students from Class 1 to 12 with multi-lingual tutoring, photo question solver, voice AI, Pomodoro focus study timer, Madhyamik/HS blueprints, and previous-year question explorer.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
